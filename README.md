@@ -7,4 +7,4 @@ Swagger Tokens (1 - 10 depending on difficulty)
 
 The amount you added is logged as well as a description of the Accomplishment
 
-For this app to run the executable has to be in the Build folder so It is best to create a shortcut to the executable if you want to have it on your desktop without having the entire folder on your desktop.
+For this app to run the executable has to be in the same folder as the amount and history file so It is best to create a shortcut to the executable if you want to have it on your desktop without having the entire folder on your desktop.
